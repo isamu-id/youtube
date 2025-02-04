@@ -34,7 +34,7 @@ export default function Home() {
             height={38}
             priority
           />
-          <p>indexだよん</p>
+          <p>indexですよ</p>
           <ol>
             <li>
               Get started by editing <code>pages/index.js</code>.
